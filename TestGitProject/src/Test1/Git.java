@@ -6,8 +6,8 @@ public class Git {
 	
 System.out.println("hello  git");
 
-System.out.println("hello  git");
-
+System.out.println("hello  akash");
+System.out.println("hello  akshay");
 		
 		
 	}
